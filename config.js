@@ -11,7 +11,7 @@ ALIVE_MSG: process.env.ALIVE_MSG || " *CRONAZ-XD ALIVE🌸*\n\n*Owner:* Cronex\n
 OWNER_NAME: process.env.OWNER_NAME || "𝑾𝒉𝒊𝒕𝒆 𝒔𝒆𝒓",
 MENU: process.env.MENU || "https://ironman.koyeb.app/ironman/anime/waifu?type=long_hair",
 BOT_NAME: process.env.BOT_NAME || "CRONAZ-XD",
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 wait: "⏳",
 done: "✅",
 fail: "❌"
